@@ -4,7 +4,7 @@
   "primary_color": "#fd7402",
   "theme": {
     "bootswatch": "cosmo",
-    "custom": "clean-white"
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/fasternordeste",
