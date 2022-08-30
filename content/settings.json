@@ -1,26 +1,26 @@
 {
-  "store_id": 51307,
-  "name": "fasternordeste",
   "domain": "fasternordeste.netlify.app",
-  "short_name": "fasternordeste",
-  "description": "fasternordeste",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#fd7402",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cosmo",
+    "custom": "clean-white"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/fasternordeste",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "fasternordeste",
+  "short_name": "fasternordeste",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon.png",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "repository": "ecomplus-stores/fasternordeste",
-  "icons_font": "_",
-  "font_family": "_"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 51307,
+  "description": "fasternordeste",
+  "large_icon": "/img/large-icon.png"
 }
