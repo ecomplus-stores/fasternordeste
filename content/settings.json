@@ -3,18 +3,18 @@
   "currency_symbol": "R$",
   "primary_color": "#fd7402",
   "theme": {
-    "bootswatch": "cosmo",
-    "custom": "ecom-beauty"
+    "bootswatch": "flatly",
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/fasternordeste",
-  "logo": "/img/uploads/logo.png",
-  "name": "Faster Nordeste",
+  "logo": "/img/uploads/logo-garrafa-termica-faster.png",
+  "name": "Faster",
   "short_name": "Faster Nordeste ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Roboto",
+  "font_family": "Open Sans",
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
