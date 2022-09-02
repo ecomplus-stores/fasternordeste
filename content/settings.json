@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#fd7402",
   "theme": {
-    "bootswatch": "_",
-    "custom": "ecom-beauty"
+    "bootswatch": "cerulean",
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/fasternordeste",
