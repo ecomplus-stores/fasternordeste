@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [],
@@ -15,7 +15,7 @@
       "/acessorios?Acessórios"
     ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
