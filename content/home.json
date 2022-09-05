@@ -5,25 +5,22 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/faster-01.webp",
-          "link": "/home"
+          "img": "/img/uploads/desktop-faster-1.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/faster-3.webp",
-          "link": "/home"
+          "img": "/img/uploads/desktop-faster-3.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/faster-02.webp",
-          "link": "/home"
+          "img": "/img/uploads/desktop-faster-2.jpg"
         }
       ]
     },
