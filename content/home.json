@@ -8,24 +8,22 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/faster-01.jpg",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
-        },
-        {
-          "img": "/img/uploads/faster-3.jpg",
-          "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/faster-01.webp",
+          "link": "/home"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/faster-02.jpg"
+          "img": "/img/uploads/faster-3.webp",
+          "link": "/home"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/faster-02.webp",
+          "link": "/home"
         }
       ]
     },
