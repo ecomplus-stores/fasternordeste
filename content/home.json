@@ -30,18 +30,18 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
+      "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "630e639e73321213f85eab02:categories:Garrafas Térmicas:/garrafas-termicas",
+      "title": "Garrafas Térmicas"
     },
     {
-      "type": "page-title",
-      "title": "Loja Garrafas Faster",
-      "description": "Mussum Ipsum, cacilds vidis litro abertis. Quem num gosta di mim que vai caçá sua turmis!A ordem dos tratores não altera o pão duris.Sapien in monti palavris qui num significa nadis i pareci latim.Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio."
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Copos Térmicos"
     }
   ]
 }
