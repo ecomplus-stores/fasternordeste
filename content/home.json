@@ -46,7 +46,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<style>\n  #titulo{float:left; width:400px}\n   #imagem{float:right; width:400px}\n</style>\n\n<div id=\"titulo\">\n  <h2>Fast Life</h2>\nEstilo de vida que celebramos porquê a vida não pode parar e as Garrafas e Copo Faster são seus aliados para manter a qualidade de vida em meio a rotina.</div>\n<div id=\"imagem\">\n<img width=\"600\" height=\"600\"src=\"blob:https://garrafafaster.com.br/b65b4837-d82b-4d68-bf3d-485ad7047182\"> </div>"
+      "html": "<style>\n  #titulo{float:left;}\n   #imagem{float:right; }\n</style>\n\n<div id=\"titulo\">\n  <h2>Fast Life</h2>\nEstilo de vida que celebramos porquê a vida não pode parar e as Garrafas e Copo Faster são seus aliados para manter a qualidade de vida em meio a rotina.</div>\n<div id=\"imagem\">\n<img width=\"600\" height=\"600\"src=\"blob:https://garrafafaster.com.br/b65b4837-d82b-4d68-bf3d-485ad7047182\"> </div>"
     }
   ]
 }
