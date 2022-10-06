@@ -10,17 +10,38 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desktop-faster-1.jpg"
+          "img": "/img/uploads/faster-banner-site-1200-x-300-01.png",
+          "mobile_img": "/img/uploads/faster-banner-site-480-x-300-01.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desktop-faster-3.jpg"
+          "img": "/img/uploads/faster-banner-site-1200-x-300-02.png",
+          "mobile_img": "/img/uploads/faster-banner-site-480-x-300-02.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desktop-faster-2.jpg"
+          "img": "/img/uploads/faster-banner-site-1200-x-300-05.png",
+          "mobile_img": "/img/uploads/faster-banner-site-480-x-300-05.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/faster-banner-site-1200-x-300-03.png",
+          "mobile_img": "/img/uploads/faster-banner-site-480-x-300-03.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/faster-banner-site-1200-x-300-04.png",
+          "mobile_img": "/img/uploads/faster-banner-site-480-x-300-04.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/faster-banner-site-1200-x-300-06.png",
+          "mobile_img": "/img/uploads/faster-banner-site-480-x-300-06.png"
         }
       ]
     },
