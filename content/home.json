@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Faster - Garrafa, Copos Térmico e Acessórios",
+  "meta_description": "Na Faster você encontra a Melhor Linha de Garrafas e Copos térmicos do mercado. Acesse e veja todos nossos produtos",
   "sections": [
     {
       "type": "banner-slider",
@@ -64,10 +64,6 @@
       "page": 1,
       "title": "Copos Térmicos",
       "collection_id": "630e63bc73321213f85eab4e:categories:Copos Térmicos:/copos-termicos"
-    },
-    {
-      "type": "custom-html",
-      "html": "<style>\n  #titulo{float:left;}\n   #imagem{float:right; }\n</style>\n\n<div id=\"titulo\">\n  <h2>Fast Life</h2>\nEstilo de vida que celebramos porquê a vida não pode parar e as Garrafas e Copo Faster são seus aliados para manter a qualidade de vida em meio a rotina.</div>\n<div id=\"imagem\">\n<img width=\"600\" height=\"600\"src=\"blob:https://garrafafaster.com.br/b65b4837-d82b-4d68-bf3d-485ad7047182\"> </div>"
     }
   ]
 }
