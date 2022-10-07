@@ -64,7 +64,8 @@
       "limit": 12,
       "page": 1,
       "title": "Copos Térmicos",
-      "collection_id": "630e63bc73321213f85eab4e:categories:Copos Térmicos:/copos-termicos"
+      "collection_id": "630e63bc73321213f85eab4e:categories:Copos Térmicos:/copos-termicos",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
