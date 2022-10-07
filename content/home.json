@@ -55,7 +55,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "630e639e73321213f85eab02:categories:Garrafas Térmicas:/garrafas-termicas",
-      "title": "Garrafas Térmicas"
+      "title": "Garrafas Térmicas",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
